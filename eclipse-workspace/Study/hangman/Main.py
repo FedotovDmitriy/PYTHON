@@ -32,6 +32,7 @@ while (count < 6):
 #for i in pictures:
     
     
+    
 print("kuku")
 
 
